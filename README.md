@@ -24,7 +24,7 @@ src="https://img.shields.io/twitch/status/aik_k?logo=twitchsx&style=for-the-badg
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.gns3.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGNS3&psig=AOvVaw1JF092Z3O_sJ9eavaqHXQ5&ust=1695560254111000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC8tabkwIEDFQAAAAAdAAAAABAI" width="36" height="36" alt="GNS3" /></a>
+<a href="https://www.gns3.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="36" height="36" alt="GNS3" /></a>
 </p>
 
 
